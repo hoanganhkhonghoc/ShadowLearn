@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Tree
+  - Items
+  - Rock
+  - Land
+  - none
+  - MS
+  - Fire
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 378347189
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Layer01
+    uniqueID: 355797665
+    locked: 0
+  - name: Layer02
+    uniqueID: 1863304437
+    locked: 0
+  - name: Layer03
+    uniqueID: 2921577113
+    locked: 0
+  - name: Layer04
+    uniqueID: 2479763025
+    locked: 0
+  - name: Layer05
+    uniqueID: 4274709681
+    locked: 0
+  - name: Layer06
+    uniqueID: 1673957873
+    locked: 0
+  - name: Layer07
+    uniqueID: 1409373785
+    locked: 0
+  - name: Layer08
+    uniqueID: 2309201561
+    locked: 0
+  - name: Layer09
+    uniqueID: 336055601
+    locked: 0
+  - name: Layer10
+    uniqueID: 2815521389
+    locked: 0
+  - name: Player
+    uniqueID: 3132262427
+    locked: 0
+  - name: Items
+    uniqueID: 1877191437
+    locked: 0
+  - name: KeyBroad
+    uniqueID: 3824778149
+    locked: 0
+  - name: Monster GOD
+    uniqueID: 517539307
+    locked: 0

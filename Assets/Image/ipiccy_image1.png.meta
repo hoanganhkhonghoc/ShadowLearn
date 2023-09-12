@@ -1,0 +1,690 @@
+fileFormatVersion: 2
+guid: 5bc8e86a1b6e24d5291c9b9b17ee37cf
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ipiccy_image1_0
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1718
+        width: 172
+        height: 262
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1517511}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831f41218cb6749ec8c6462a9d051e9e
+      internalID: -1606718859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ipiccy_image1_1
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1718
+        width: 172
+        height: 262
+      alignment: 9
+      pivot: {x: 0.4843977, y: 0.13126612}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f829db9d6f34bc1a81a66689bf352f
+      internalID: 440633033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ipiccy_image1_2
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 1695
+        width: 238
+        height: 285
+      alignment: 9
+      pivot: {x: 0.17301108, y: 0.15160747}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893858850c1534f329536269e741ce1f
+      internalID: 1678921340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ipiccy_image1_3
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 1681
+        width: 288
+        height: 319
+      alignment: 9
+      pivot: {x: 0.27636972, y: 0.146678}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa40265e9a0674f73bd72a93a1ed1cc0
+      internalID: 1973179030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ipiccy_image1_4
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 1703
+        width: 225
+        height: 277
+      alignment: 9
+      pivot: {x: 0.21375325, y: 0.1415456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44382834efcda4749b1ac367b1ff20a7
+      internalID: 1673357284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ipiccy_image1_5
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1310
+        width: 262
+        height: 244
+      alignment: 9
+      pivot: {x: 0.17223597, y: 0.44500932}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e399f7ce025164dfe8b20d5e9e684015
+      internalID: 790123817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ipiccy_image1_6
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1243
+        width: 256
+        height: 335
+      alignment: 9
+      pivot: {x: 0.1750369, y: 0.8524687}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e199b91199d431182a9f9377f36d90
+      internalID: -1593303597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ipiccy_image1_7
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 1232
+        width: 215
+        height: 264
+      alignment: 9
+      pivot: {x: 0.4500738, y: 0.9167665}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b652d9b5384c3448bb951e34971125b9
+      internalID: -1349632542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ipiccy_image1_8
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 1310
+        width: 262
+        height: 244
+      alignment: 9
+      pivot: {x: 0.16199335, y: 0.4670055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ec8d43f1b654a7ebf7a0ee9928dcbc
+      internalID: 144361808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ipiccy_image1_9
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 1263
+        width: 253
+        height: 194
+      alignment: 9
+      pivot: {x: 0.7757824, y: 0.7904896}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e107d1ec18d643da96bf53071139718
+      internalID: 1822339037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ipiccy_image1_10
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 822
+        width: 226
+        height: 287
+      alignment: 9
+      pivot: {x: 0.8443516, y: 0.3129919}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad81428b3ee34c938a81a40c23e3210
+      internalID: 2008493743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ipiccy_image1_11
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 878
+        width: 235
+        height: 218
+      alignment: 9
+      pivot: {x: 0.35154745, y: 0.17994171}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc14ec780f2f4c2baf95dac7480ff00
+      internalID: 322712405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ipiccy_image1_12
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 926
+        width: 172
+        height: 262
+      alignment: 9
+      pivot: {x: 0.51560265, y: 0.13126566}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 374bdf94e596f4b2082cbeb02c715d3c
+      internalID: -1594926925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ipiccy_image1_13
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 812
+        width: 388
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc6fceffdb3d34efb82c71dc3c5f0c11
+      internalID: -2042658579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ipiccy_image1_14
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 792
+        width: 396
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79fdc9a8cd317426c98728bd5fae9161
+      internalID: -1160422946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ipiccy_image1_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 408
+        width: 408
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcdd959cae57743ba88558eca6cadb20
+      internalID: 1175130885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ipiccy_image1_16
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 416
+        width: 388
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb850919f28b442aac5f56f9e7555d7
+      internalID: 574066328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ipiccy_image1_17
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 416
+        width: 376
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e180e2f9b6f4a0986403b306ad8578
+      internalID: 858370707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ipiccy_image1_18
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 416
+        width: 376
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f5c17fd9db94dccaf3c2951219e284
+      internalID: 563617614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ipiccy_image1_19
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 416
+        width: 376
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df342d38e8ce3459987ccec371346f00
+      internalID: 1399895661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ipiccy_image1_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 412
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c9f94ccac8c4817849730777207ac0
+      internalID: 1709830897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ipiccy_image1_21
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 0
+        width: 401
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3da40133a2d4e54b86a0c9d687f1eb
+      internalID: -989361676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ipiccy_image1_22
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 20
+        width: 376
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d1659f103de47ebaaaff66afddbf6f
+      internalID: -972049873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ipiccy_image1_23
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 0
+        width: 408
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 738930f1b4cdb422fba4c3d7415cbb2a
+      internalID: 288609831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ipiccy_image1_24
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 20
+        width: 396
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4a606ceb86447038faa6267ddec837
+      internalID: -1401318513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ipiccy_image1_0: -1606718859
+      ipiccy_image1_1: 440633033
+      ipiccy_image1_10: 2008493743
+      ipiccy_image1_11: 322712405
+      ipiccy_image1_12: -1594926925
+      ipiccy_image1_13: -2042658579
+      ipiccy_image1_14: -1160422946
+      ipiccy_image1_15: 1175130885
+      ipiccy_image1_16: 574066328
+      ipiccy_image1_17: 858370707
+      ipiccy_image1_18: 563617614
+      ipiccy_image1_19: 1399895661
+      ipiccy_image1_2: 1678921340
+      ipiccy_image1_20: 1709830897
+      ipiccy_image1_21: -989361676
+      ipiccy_image1_22: -972049873
+      ipiccy_image1_23: 288609831
+      ipiccy_image1_24: -1401318513
+      ipiccy_image1_3: 1973179030
+      ipiccy_image1_4: 1673357284
+      ipiccy_image1_5: 790123817
+      ipiccy_image1_6: -1593303597
+      ipiccy_image1_7: -1349632542
+      ipiccy_image1_8: 144361808
+      ipiccy_image1_9: 1822339037
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

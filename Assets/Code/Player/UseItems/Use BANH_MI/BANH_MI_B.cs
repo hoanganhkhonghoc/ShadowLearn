@@ -8,8 +8,6 @@ public class BANH_MI_B : MonoBehaviour
     public StatusPlayer player;
     private void Update()
     {
-        Debug.Log(Check());
-        Debug.Log(itemBroad_UI.TacDongHat.gioiHan.slots[itemBroad_UI.bling].type);
         if (Input.GetKeyDown(KeyCode.T) && Check())
         {
             itemBroad_UI.TacDongHat.gioiHan.slots[itemBroad_UI.bling].RemoveItem();

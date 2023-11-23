@@ -1,0 +1,27 @@
+Type: GO, Count: 1, Max: 100, Icon: Vat_Pham_0 (UnityEngine.Sprite)
+Type: NONE, Count: 0, Max: 100, Icon: 
+Type: NONE, Count: 0, Max: 100, Icon: 
+Type: NONE, Count: 0, Max: 100, Icon: 
+Type: NONE, Count: 0, Max: 100, Icon: 
+Type: NONE, Count: 0, Max: 100, Icon: 
+Type: NONE, Count: 0, Max: 100, Icon: 
+Type: NONE, Count: 0, Max: 100, Icon: 
+Type: NONE, Count: 0, Max: 100, Icon: 
+Type: NONE, Count: 0, Max: 100, Icon: 
+Type: NONE, Count: 0, Max: 100, Icon: 
+Type: NONE, Count: 0, Max: 100, Icon: 
+Type: NONE, Count: 0, Max: 100, Icon: 
+Type: NONE, Count: 0, Max: 100, Icon: 
+Type: NONE, Count: 0, Max: 100, Icon: 
+Type: NONE, Count: 0, Max: 100, Icon: 
+Type: NONE, Count: 0, Max: 100, Icon: 
+Type: NONE, Count: 0, Max: 100, Icon: 
+Type: NONE, Count: 0, Max: 100, Icon: 
+Type: NONE, Count: 0, Max: 100, Icon: 
+Type: NONE, Count: 0, Max: 100, Icon: 
+Type: NONE, Count: 0, Max: 100, Icon: 
+Type: NONE, Count: 0, Max: 100, Icon: 
+Type: NONE, Count: 0, Max: 100, Icon: 
+Type: NONE, Count: 0, Max: 100, Icon: 
+Type: NONE, Count: 0, Max: 100, Icon: 
+Type: NONE, Count: 0, Max: 100, Icon: 

@@ -43,4 +43,8 @@ public class SlotItem
             }
         }
     }
+    public override string ToString()
+    {
+        return $"Type: {type}, Count: {count}, Max: {max}, Icon: {icon}";
+    }
 }

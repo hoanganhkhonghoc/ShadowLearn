@@ -84,7 +84,7 @@ SpriteRenderer:
   m_Size: {x: 2.2507942, y: 2.2500002}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!50 &6224119883505793680
@@ -172,5 +172,5 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   type: 2
-  icon: {fileID: 1732356157, guid: 0f716709d768642cc84ec15e2dfb9239, type: 3}
+  icon: {fileID: 97405660, guid: ec04d9be110e3404abb51211dfdec121, type: 3}
   rb2d: {fileID: 6224119883505793680}

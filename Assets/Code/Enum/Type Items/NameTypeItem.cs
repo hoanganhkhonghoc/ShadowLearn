@@ -13,5 +13,7 @@ public enum NameTypeItem
 
     DA,
 
-    GO
+    GO,
+
+    HOME
 }

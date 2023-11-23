@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 3f71a86856f694aa7a43026de6827b9b
+guid: bb6cde6c3bcc74b6ea9997cfbfb3aa69
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -34,7 +34,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -43,7 +43,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -72,7 +72,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 2
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -121,175 +121,7 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites:
-    - serializedVersion: 2
-      name: zyro-image (3)_0
-      rect:
-        serializedVersion: 2
-        x: 273
-        y: 1416
-        width: 1819
-        height: 960
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fda9f01a17cbe457a96e896db422da4b
-      internalID: 393976427
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: zyro-image (3)_1
-      rect:
-        serializedVersion: 2
-        x: 2218
-        y: 191
-        width: 1920
-        height: 2238
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c12939f3ca60f4658ba53155b1a24039
-      internalID: -200686077
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: zyro-image (3)_2
-      rect:
-        serializedVersion: 2
-        x: 4293
-        y: 1891
-        width: 1210
-        height: 472
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8f0156590b9bc44a38a858db0ca3cb2b
-      internalID: 794338895
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: zyro-image (3)_3
-      rect:
-        serializedVersion: 2
-        x: 5229
-        y: 24
-        width: 1771
-        height: 2578
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 878d2318798a24c449b3c5766fbda9a3
-      internalID: 779702557
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: zyro-image (3)_4
-      rect:
-        serializedVersion: 2
-        x: 4276
-        y: 1337
-        width: 1227
-        height: 475
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 427e5c164f6c54c429ea6015ddc479cd
-      internalID: 1592246359
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: zyro-image (3)_5
-      rect:
-        serializedVersion: 2
-        x: 239
-        y: 222
-        width: 1894
-        height: 1002
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: dce340ab7d2ae46368c96b82d0f569e3
-      internalID: -2079413715
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: zyro-image (3)_6
-      rect:
-        serializedVersion: 2
-        x: 4276
-        y: 793
-        width: 1230
-        height: 486
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0b551b0dcb34442459c099af1dd85880
-      internalID: -551832092
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: zyro-image (3)_7
-      rect:
-        serializedVersion: 2
-        x: 4290
-        y: 260
-        width: 1213
-        height: 444
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: dc7eaea7ee1af4906af127e376cb5205
-      internalID: 771337662
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
+    sprites: []
     outline: []
     physicsShape: []
     bones: []
@@ -300,15 +132,7 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable:
-      zyro-image (3)_0: 393976427
-      zyro-image (3)_1: -200686077
-      zyro-image (3)_2: 794338895
-      zyro-image (3)_3: 779702557
-      zyro-image (3)_4: 1592246359
-      zyro-image (3)_5: -2079413715
-      zyro-image (3)_6: -551832092
-      zyro-image (3)_7: 771337662
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

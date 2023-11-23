@@ -84,7 +84,7 @@ SpriteRenderer:
   m_Size: {x: 2.3708365, y: 2.0800002}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!114 &936528208919544397
@@ -100,7 +100,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   type: 3
-  icon: {fileID: 1128552833, guid: 0f716709d768642cc84ec15e2dfb9239, type: 3}
+  icon: {fileID: 473534757, guid: ec04d9be110e3404abb51211dfdec121, type: 3}
   rb2d: {fileID: 6014030785408240521}
 --- !u!61 &5734550354398051660
 BoxCollider2D:

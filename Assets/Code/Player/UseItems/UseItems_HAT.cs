@@ -9,8 +9,6 @@ public class UseItemsHAT : MonoBehaviour
     private bool check = true;
     private void Update()
     {
-        //Debug.Log("Check(): " + Check());
-        //Debug.Log("check: " + check);
         if (Input.GetKeyDown(KeyCode.T) && Check() && check)
         {
             itemBroad_UI.TacDongHat.gioiHan.slots[itemBroad_UI.bling].RemoveItem();
@@ -20,6 +18,7 @@ public class UseItemsHAT : MonoBehaviour
 
     private bool Check()
     {
+        Debug.Log(itemBroad_UI.TacDongHat.gioiHan.slots[itemBroad_UI.bling].type);
         if (itemBroad_UI.TacDongHat.gioiHan.slots[itemBroad_UI.bling].type == NameTypeItem.HAT
             && itemBroad_UI.TacDongHat.gioiHan.slots[itemBroad_UI.bling].count > 0)
         {

@@ -100,7 +100,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   type: 4
-  icon: {fileID: -201634480, guid: ec04d9be110e3404abb51211dfdec121, type: 3}
+  icon: {fileID: 1032006554, guid: ec04d9be110e3404abb51211dfdec121, type: 3}
   rb2d: {fileID: 327859405165896370}
 --- !u!50 &327859405165896370
 Rigidbody2D:

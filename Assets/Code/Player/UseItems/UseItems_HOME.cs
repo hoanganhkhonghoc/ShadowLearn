@@ -23,6 +23,7 @@ public class UseItems_HOME : MonoBehaviour
     }
     private void Update()
     {
+        Debug.Log(itemBroad_UI.TacDongHat.gioiHan.slots[itemBroad_UI.bling].type);
         if (Input.GetKeyDown(KeyCode.Y) && Check() && check)
         {
             vector3 = transform.position;

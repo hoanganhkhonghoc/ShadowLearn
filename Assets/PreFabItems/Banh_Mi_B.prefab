@@ -172,5 +172,5 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   type: 2
-  icon: {fileID: 97405660, guid: ec04d9be110e3404abb51211dfdec121, type: 3}
+  icon: {fileID: -1746170590, guid: ec04d9be110e3404abb51211dfdec121, type: 3}
   rb2d: {fileID: 6224119883505793680}

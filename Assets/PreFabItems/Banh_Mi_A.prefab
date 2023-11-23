@@ -33,7 +33,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 14
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &3272842311359341007
 SpriteRenderer:
@@ -100,7 +100,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   type: 3
-  icon: {fileID: 473534757, guid: ec04d9be110e3404abb51211dfdec121, type: 3}
+  icon: {fileID: 1226038210, guid: ec04d9be110e3404abb51211dfdec121, type: 3}
   rb2d: {fileID: 6014030785408240521}
 --- !u!61 &5734550354398051660
 BoxCollider2D:
